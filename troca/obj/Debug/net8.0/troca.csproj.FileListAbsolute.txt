@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\bin\Debug\net8.0\troca.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\bin\Debug\net8.0\troca.deps.json
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\bin\Debug\net8.0\troca.runtimeconfig.json
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\bin\Debug\net8.0\troca.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\bin\Debug\net8.0\troca.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\troca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\troca.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\troca.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\troca.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\troca.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\refint\troca.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\troca.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\troca.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca\obj\Debug\net8.0\ref\troca.dll
