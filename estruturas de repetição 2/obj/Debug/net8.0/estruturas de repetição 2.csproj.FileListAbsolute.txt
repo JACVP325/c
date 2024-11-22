@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\bin\Debug\net8.0\estruturas de repetição 2.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\bin\Debug\net8.0\estruturas de repetição 2.deps.json
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\bin\Debug\net8.0\estruturas de repetição 2.runtimeconfig.json
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\bin\Debug\net8.0\estruturas de repetição 2.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\bin\Debug\net8.0\estruturas de repetição 2.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\estruturas de repetição 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\estruturas de repetição 2.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\estruturas de repetição 2.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\estruturas de repetição 2.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\estruturas de repetição 2.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\refint\estruturas de repetição 2.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\estruturas de repetição 2.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\estruturas de repetição 2.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estruturas de repetição 2\obj\Debug\net8.0\ref\estruturas de repetição 2.dll

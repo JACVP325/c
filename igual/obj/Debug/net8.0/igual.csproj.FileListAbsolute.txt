@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\bin\Debug\net8.0\igual.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\bin\Debug\net8.0\igual.deps.json
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\bin\Debug\net8.0\igual.runtimeconfig.json
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\bin\Debug\net8.0\igual.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\bin\Debug\net8.0\igual.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\igual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\igual.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\igual.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\igual.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\igual.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\refint\igual.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\igual.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\igual.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\igual\obj\Debug\net8.0\ref\igual.dll

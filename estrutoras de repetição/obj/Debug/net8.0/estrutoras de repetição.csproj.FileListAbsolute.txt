@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\estrutoras de repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\estrutoras de repetição.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\estrutoras de repetição.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\estrutoras de repetição.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\bin\Debug\net8.0\estrutoras de repetição.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\bin\Debug\net8.0\estrutoras de repetição.deps.json
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\bin\Debug\net8.0\estrutoras de repetição.runtimeconfig.json
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\bin\Debug\net8.0\estrutoras de repetição.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\bin\Debug\net8.0\estrutoras de repetição.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\estrutoras de repetição.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\refint\estrutoras de repetição.dll
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\estrutoras de repetição.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\estrutoras de repetição.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\estrutoras de repetição\obj\Debug\net8.0\ref\estrutoras de repetição.dll

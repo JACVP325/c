@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\calculos.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\calculos.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\calculos.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\bin\Debug\net8.0\calculos.exe
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\bin\Debug\net8.0\calculos.deps.json
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\bin\Debug\net8.0\calculos.runtimeconfig.json
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\bin\Debug\net8.0\calculos.dll
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\bin\Debug\net8.0\calculos.pdb
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\calculos.dll
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\refint\calculos.dll
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\calculos.pdb
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\calculos.genruntimeconfig.cache
+C:\Users\Utilizador\Desktop\escola\programação\C#\calculos\obj\Debug\net8.0\ref\calculos.dll
