@@ -1,7 +1,0 @@
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca 3\obj\Debug\troca 3.csproj.AssemblyReference.cache
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca 3\obj\Debug\troca 3.csproj.CoreCompileInputs.cache
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca 3\bin\Debug\troca 3.exe.config
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca 3\bin\Debug\troca 3.exe
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca 3\bin\Debug\troca 3.pdb
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca 3\obj\Debug\troca 3.exe
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\troca 3\obj\Debug\troca 3.pdb
