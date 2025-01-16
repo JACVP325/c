@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exmplo continue\bin\Debug\exmplo continue.exe.config
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exmplo continue\bin\Debug\exmplo continue.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exmplo continue\bin\Debug\exmplo continue.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exmplo continue\obj\Debug\exmplo continue.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exmplo continue\obj\Debug\exmplo continue.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exmplo continue\obj\Debug\exmplo continue.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exmplo continue\obj\Debug\exmplo continue.pdb
