@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo break\bin\Debug\exemplo break.exe.config
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo break\bin\Debug\exemplo break.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo break\bin\Debug\exemplo break.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo break\obj\Debug\exemplo break.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo break\obj\Debug\exemplo break.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo break\obj\Debug\exemplo break.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo break\obj\Debug\exemplo break.pdb
