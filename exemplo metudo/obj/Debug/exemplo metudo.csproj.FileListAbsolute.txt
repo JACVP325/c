@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo metudo\bin\Debug\exemplo metudo.exe.config
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo metudo\bin\Debug\exemplo metudo.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo metudo\bin\Debug\exemplo metudo.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo metudo\obj\Debug\exemplo metudo.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo metudo\obj\Debug\exemplo metudo.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo metudo\obj\Debug\exemplo metudo.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo metudo\obj\Debug\exemplo metudo.pdb
