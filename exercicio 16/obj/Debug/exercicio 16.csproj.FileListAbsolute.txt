@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 16\bin\Debug\exercicio 16.exe.config
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 16\bin\Debug\exercicio 16.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 16\bin\Debug\exercicio 16.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 16\obj\Debug\exercicio 16.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 16\obj\Debug\exercicio 16.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 16\obj\Debug\exercicio 16.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 16\obj\Debug\exercicio 16.pdb
