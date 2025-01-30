@@ -1,7 +1,0 @@
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 15\obj\Debug\exercicio 15.csproj.AssemblyReference.cache
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 15\obj\Debug\exercicio 15.csproj.CoreCompileInputs.cache
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 15\bin\Debug\exercicio 15.exe.config
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 15\bin\Debug\exercicio 15.exe
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 15\bin\Debug\exercicio 15.pdb
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 15\obj\Debug\exercicio 15.exe
-C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercicio 15\obj\Debug\exercicio 15.pdb
