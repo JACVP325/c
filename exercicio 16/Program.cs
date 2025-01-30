@@ -2,10 +2,14 @@
 
 public class Programa14 
 {
+    // Metodo Main
+
     public static void Main(string[] args) 
     {
         ParImpar(10);
     }
+
+    // Metodo para ver se e Par ou Impar
     public static void ParImpar(int n1)
     {
         if (n1 % 2 == 0)
@@ -18,6 +22,8 @@ public class Programa14
                 " calcular o valor ao quadrado");
         }
     }
+
+    // Metodo para calcular o quadrado
     public static void Quadrado(int n2) 
     {
         int resultado = n2 * n2;
