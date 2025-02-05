@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo 1\bin\Debug\exemplo 1.exe.config
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo 1\bin\Debug\exemplo 1.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo 1\bin\Debug\exemplo 1.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo 1\obj\Debug\exemplo 1.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo 1\obj\Debug\exemplo 1.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo 1\obj\Debug\exemplo 1.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exemplo 1\obj\Debug\exemplo 1.pdb
