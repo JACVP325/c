@@ -11,7 +11,7 @@ public class Programa16
 
         // coisas que aparecem na tela
 
-        Console.WriteLine("Cidades e as suas populações: " +"\n");
+        Console.WriteLine("Cidades e as suas populações: " + "\n");
 
         for (int contador = 0; contador < cidades.Length; contador++)
         {
