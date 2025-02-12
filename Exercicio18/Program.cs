@@ -15,7 +15,7 @@ public class Programa16
 
         for (int contador = 0; contador < cidades.Length; contador++)
         {
-            Console.WriteLine(cidades[contador] + " - " + numerodepopulacao[contador] + " Habitantes");
+            Console.WriteLine($"{cidades[contador]} - {numerodepopulacao[contador]} Habitantes");
         }
     }
 }
