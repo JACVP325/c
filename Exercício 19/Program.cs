@@ -85,6 +85,7 @@ public class programa17
                     Console.WriteLine("o programa fechou");
                     return;
 
+                // opção invalida
 
                 default:
                     Console.WriteLine("opeção invalida");
