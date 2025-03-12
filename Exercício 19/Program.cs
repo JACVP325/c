@@ -9,7 +9,9 @@ public class programa17
 
         Dictionary<string, string> ListaTelefonica = new Dictionary<string, string>();
 
-        while (true)
+        String opcao;
+
+        do
         {
             // menu
 
@@ -21,10 +23,10 @@ public class programa17
 
             // pedir ao utilizador para escolher uma opção
 
-            string opção = Console.ReadLine();
+            opcao = Console.ReadLine();
 
 
-            switch (opção)
+            switch (opcao)
             {
                 // adicionar contacto
 
@@ -83,7 +85,7 @@ public class programa17
 
                 case "4":
                     Console.WriteLine("o programa fechou");
-                    return;
+                    break;
 
                 // opção invalida
 
@@ -92,6 +94,7 @@ public class programa17
                     break;
             }
         }
+        while (opcao != "4");
 
     }
 }
