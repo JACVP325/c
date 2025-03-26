@@ -1,0 +1,7 @@
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercício 20\bin\Debug\exercício 20.exe.config
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercício 20\bin\Debug\exercício 20.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercício 20\bin\Debug\exercício 20.pdb
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercício 20\obj\Debug\exercício 20.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercício 20\obj\Debug\exercício 20.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercício 20\obj\Debug\exercício 20.exe
+C:\Users\Utilizador\Desktop\escola\programação\vera\C#\exercício 20\obj\Debug\exercício 20.pdb
